@@ -19,9 +19,23 @@ body {
   font-weight: 300;
   padding: 0.5rem;
   color: hsl(0, 0%, 59%);
+  margin-top: 2rem;
+  margin-bottom: 0;
 }
 
 .header__title span {
   font-weight: 700;
   color: #000;
+}
+
+.header__text {
+  margin: 0;
+  text-align: center;
+}
+
+.header__form {
+  margin-top: 2rem;
+}
+
+.header__input {
 }

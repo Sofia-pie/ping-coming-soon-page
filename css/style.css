@@ -1,0 +1,27 @@
+html {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 20px;
+}
+
+body {
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4rem;
+}
+
+.header__title {
+  font-size: 2.4rem;
+  font-weight: 300;
+  padding: 0.5rem;
+  color: hsl(0, 0%, 59%);
+}
+
+.header__title span {
+  font-weight: 700;
+  color: #000;
+}

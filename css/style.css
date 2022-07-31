@@ -78,6 +78,7 @@ body {
 
 .main__footer {
   margin-top: 4rem;
+  margin-bottom: 2rem;
 }
 .footer__icons {
   display: flex;
@@ -87,4 +88,10 @@ body {
 ion-icon {
   color: hsl(223, 87%, 63%);
   font-size: 0.8rem;
+}
+
+.footer__text {
+  padding-top: 1.5rem;
+  font-size: 0.6rem;
+  color: hsl(0, 0%, 59%);
 }

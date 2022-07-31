@@ -25,12 +25,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Sofia-pie/ping-coming-soon-page-master](GitHub repo)
-- Live Site URL: [Ahttps://sofia-pie.github.io/ping-coming-soon-page-master/](Live Demo)
+- Solution URL: [GitHub repo](https://github.com/Sofia-pie/ping-coming-soon-page-master)
+- Live Site URL: [Live Demo](https://sofia-pie.github.io/ping-coming-soon-page-master/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@Sofia-pie](https://www.frontendmentor.io/profile/Sofia-pie)
+- GitHub - [@Sofia-pie](https://github.com/Sofia-pie)

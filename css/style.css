@@ -44,7 +44,8 @@ body {
   width: 380px;
   border-radius: 30px;
   border: 1px hsl(0, 0%, 59%) solid;
-  padding-left: 1.4rem;
+
+  padding: 1rem 1.4rem;
 }
 
 .header__input::placeholder {
@@ -71,6 +72,6 @@ body {
 }
 
 .main__image {
-  max-height: 400px;
-  width: auto;
+  max-width: 650px;
+  width: 90%;
 }

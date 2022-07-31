@@ -35,22 +35,25 @@ body {
 .header__form {
   margin-top: 2rem;
   display: flex;
-  gap: 0.9rem;
-  flex-wrap: wrap;
   justify-content: center;
+  position: relative;
+  gap: 0.9rem;
 }
 
 .header__input {
   width: 380px;
   border-radius: 30px;
   border: 1px hsl(0, 0%, 59%) solid;
-
   padding: 1rem 1.4rem;
 }
 
 .header__input::placeholder {
   color: hsl(0, 0%, 59%);
   font-size: 0.8rem;
+}
+
+.header__input:focus {
+  outline-color: hsl(228, 45%, 44%);
 }
 
 .header__button {
@@ -116,4 +119,30 @@ footer {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+.message {
+  position: absolute;
+  top: 2.9rem;
+  left: 1.4rem;
+}
+
+.error {
+  border-color: hsl(354, 100%, 66%);
+}
+
+.error-text {
+  color: hsl(354, 100%, 66%);
+  font-size: 0.6rem;
+}
+
+.succes {
+  border-color: green;
+}
+.succes-text {
+  color: rgb(0, 139, 0);
+}
+
+.hidden {
+  display: none;
 }

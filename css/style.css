@@ -75,3 +75,16 @@ body {
   max-width: 650px;
   width: 90%;
 }
+
+.main__footer {
+  margin-top: 4rem;
+}
+.footer__icons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+ion-icon {
+  color: hsl(223, 87%, 63%);
+  font-size: 0.8rem;
+}

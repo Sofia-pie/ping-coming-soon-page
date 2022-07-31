@@ -1,5 +1,5 @@
-const inputField = document.querySelector(".header__input");
-const submitButton = document.querySelector(".header__button");
+const inputField = document.querySelector(".form__input");
+const submitButton = document.querySelector(".form__button");
 const message = document.querySelector(".message");
 submitButton.addEventListener("click", (e) => {
   e.preventDefault();

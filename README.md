@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo](https://github.com/Sofia-pie/ping-coming-soon-page-master)
-- Live Site URL: [Live Demo](https://sofia-pie.github.io/ping-coming-soon-page-master/)
+- Solution URL: [GitHub repo](https://github.com/Sofia-pie/ping-coming-soon-page)
+- Live Site URL: [Live Demo](https://sofia-pie.github.io/ping-coming-soon-page/)
 
 ## Author
 
